@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**StanKhil/StanKhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer with experience in multiple programming languages and technologies. Always eager to learn and improve my skills.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Skills
+- 🔹 **Programming Languages:** C#, C++, Python, JavaScript  
+- 🔹 **Web Development:** HTML, CSS  
+- 🔹 **Databases:** SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- 🏫 **ITStep Academy**  
+- 🏫 **Richelieu Scientific Lyceum**  
+
+---
+⭐ Feel free to star my repositories and contribute!
