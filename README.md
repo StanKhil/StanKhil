@@ -8,10 +8,8 @@ I'm a passionate developer with experience in multiple programming languages and
 - 🔹 **Web Development:** HTML, CSS  
 - 🔹 **Databases:** SQL  
 - 🔹 **Version Control:** Git, GitHub  
-- 🔹 **Frameworks & Libraries:** .NET, Node.js, React  
+- 🔹 **Frameworks & Libraries:** .NET, Node.js, Vue
 - 🔹 **Software Development:** OOP, SOLID principles, Design Patterns  
-- 🔹 **Testing:** Unit Testing, TDD  
-- 🔹 **DevOps & Tools:** Docker, CI/CD, Linux basics  
 
 ## 🎓 Education
 - 🏫 **ITStep Academy**  
