@@ -6,7 +6,7 @@ I'm a passionate developer with experience in multiple programming languages and
 ## 💻 Technologies & Skills
 - 🔹 **Programming Languages:** C#, C++, Python, JavaScript, PHP
 - 🔹 **Web Development:** HTML, CSS  
-- 🔹 **Databases:** SQL  
+- 🔹 **Databases:** SQL, Mongo
 - 🔹 **Version Control:** Git, GitHub  
 - 🔹 **Frameworks & Libraries:** .NET, Node.js, Vue
 - 🔹 **Software Development:** OOP, SOLID principles, Design Patterns  
