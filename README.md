@@ -4,7 +4,7 @@
 I'm a passionate developer with experience in multiple programming languages and technologies. Always eager to learn and improve my skills.
 
 ## 💻 Technologies & Skills
-- 🔹 **Programming Languages:** C#, C++, Python, JavaScript  
+- 🔹 **Programming Languages:** C#, C++, Python, JavaScript, PHP
 - 🔹 **Web Development:** HTML, CSS  
 - 🔹 **Databases:** SQL  
 - 🔹 **Version Control:** Git, GitHub  
